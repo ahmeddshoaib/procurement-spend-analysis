@@ -114,7 +114,7 @@ These results indicate a diversified supplier portfolio and low dependency on in
 
 ### Category Spend Analysis
 
-![Category Spend](visuals/category_spend_analysis.png)
+![Category Spend](visuals/supplier_spend_analysis.png)
 
 ### Pareto Analysis
 
